@@ -11,6 +11,3 @@ Tested on WindowsXP/7, Linux Mint/Debian with frameworks Flask, Django, CherryPy
 If there are more than one application in the folder, the application from the root folder will be launched first. If there are several applications in the root folder, then automatically the first one will be selected according to the alphabetical order. Does not require installation (portability), move launcher.py in the folder with your ([Django](https://www.djangoproject.com/) or [Flask](https://palletsprojects.com/p/flask/)) project.
 
 ![](https://github.com/ins1x/WSGI-app-launcher/blob/main/static/img/thumbnails/thmb_gui3.jpg)
-
-### Disclaimer
-> This is an **educational project**. Don't use this launcher in your production projects!!
